@@ -1,0 +1,6 @@
+El sistema operativo es un programa concebido para tratar con los componentes principales en el funcionamiento de un 
+sistema informatico, como expedir comandos a los diferentes dispositivos de hardware y asignar los recursos del 
+sistema, como la memoria principal, a las diferentes aplicaciones que se ejecutan.
+Es un software que se requiere para ejecutar todos los programas de aplicacion y rutinas de utilidades. Ademas, 
+funciona como un puente para poder realizar una mejor interaccion entre los programas de aplicacion y el hardware de 
+la computadora.

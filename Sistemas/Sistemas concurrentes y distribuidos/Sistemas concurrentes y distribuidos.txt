@@ -1,0 +1,6 @@
+Los sistemas distribuidos son piezas de software que sirven para coordinar las acciones de varias computadoras. 
+Esta coordinacion se logra mediante el intercambio de mensajes, es decir, con trozos de datos que transmiten 
+información.
+Los sistemas distribuidos requieren componentes concurrentes, una red de comunicacion y un mecanismo de sincronizacion.
+Permiten compartir recursos, incluyendo el software, por los sistemas conectados a una red. Por tanto, el sistema se 
+basa en una red que conecta las computadoras y maneja el enrutamiento de los mensajes.
